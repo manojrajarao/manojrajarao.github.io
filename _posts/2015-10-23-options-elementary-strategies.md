@@ -2,7 +2,7 @@
 layout: post
 title: "Options: Elementary Strategies - Part I"
 excerpt: "Options Elementary Strategies"
-tags: [Investing, Strategies, Options, Calls, Puts 
+tags: [Investing, Strategies, Options, Calls, Puts,]
 comments: true
 ---
 
