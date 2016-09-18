@@ -64,3 +64,35 @@ strike price and expiry.
 A Buyer or trader who a is paying for the contract and a Seller or a
 trader who is signing the contract. A contract being an option for a
 given Strike and Expiry on the underlying.
+
+### What is In The Money?
+
+In the money means that a call option's strike price is below the market price of the underlying asset or that the strike price of a put option is above the market price of the underlying asset. Being in the money does not mean you will profit, it just means the option is worth exercising.
+
+### What is Out of the Money?
+
+Out of the money (OTM) is term used to describe a call option with a strike price that is higher than the market price of the underlying asset, or a put option with a strike price that is lower than the market price of the underlying asset. An out of the money option has no intrinsic value, but only possesses extrinsic or time value.
+
+### What is Intrinsic Value?
+
+Intrinsic Value of Options Examples. Intrinsic value in options is the in-the-money portion of the option's premium. For example, if a call options strike price is $15 and the underlying stock's market price is at $25, then the intrinsic value of the call option is $10, or $25 - $15.
+
+### What is Extrinsic Value?
+
+Extrinsic value measures the difference between market price of an option and its intrinsic value. Extrinsic value is also the portion of the worth that has been assigned to an item by external factors. The opposite of an extrinsic value is an intrinsic value, which is the inherent worth of an item. For example, an option that has a premium price of $10 and an intrinsic value of $6 would have an extrinsic value of $4.
+
+### What are Naked Options?
+
+A naked call occurs when a speculator writes (sells) a call option on a security without ownership of that security. It is one of the riskiest options strategies because it carries unlimited risk as opposed to a naked put, where the maximum loss occurs if the stock falls to zero.
+
+### What are Spreads?
+
+A spread position is entered by buying and selling equal or different number of options of the same class on the same underlying security but with different strike prices or expiration dates.
+
+### What are the GREEKS?
+
+The Greeks are the quantities representing the sensitivity of the price of derivatives such as options to a change in underlying parameters on which the value of an instrument or portfolio of financial instruments is dependent. The name is used because the most common of these sensitivities are denoted by Greek letters (as are some other finance measures). Collectively these have also been called the risk sensitivities, risk measures or hedge parameters.
+
+### What are the most common GREEKS used day-to-day by retail traders?
+
+DELTA and THETA
