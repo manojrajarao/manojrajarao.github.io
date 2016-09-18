@@ -6,11 +6,11 @@ tags: [Investing, Options, distribution, theoritical pricing, Balck-Scholes]
 comments: true
 ---
 
-# Factors that impact Options Pricing:<a id="sec-1" name="sec-1"></a>
+## Factors that impact Options Pricing:
 
 Option pricing is obviously affected by the direction in which the underlying moves. An additional factor that an options trader must take into account in the speed with which the underlying moves in the desired direction.
 
-### The most popular theoritical model used for determining value of options is called the Black-Scholes Method. Actually, that's not all: there are other input parameters that affect the theoritical value of options.
+#### The most popular theoritical model used for determining value of options is called the Black-Scholes Method. Actually, that's not all: there are other input parameters that affect the theoritical value of options.
 
 -   Exercise Price: This is a constant/unchangeable throughout the life of an option. It's one of the invariants that defines the option.
 -   Time to Expiration: The expiration date on the option is constant therefore the time remaining to expiration keeps ticking and this is one of most significant factors impacting the value of an option. We will cover Greeks at a later point and see how one of the greeks allow us to understand how this parameter affects the pricing of an option (THETA)
@@ -19,7 +19,7 @@ Option pricing is obviously affected by the direction in which the underlying mo
 -   Dividends: Underlying that provide dividends to the stock holders does impact the option pricing through the year. However, these special/specific events to a company and they are not factored into the options pricing model as a separate factor, however, they are factored into the pricing via another parameter volatility.
 -   Volatility: This is perhaps the most significant, yet, by far the most difficult parameter to understand for traders. In trading, changes to volatility can depend on various situations and assumptions. This can impact the price of the options significantly. We will visit this in detail in the next section.
 
-# Volatility: What is volatility and why is it so important to a trader?<a id="sec-2" name="sec-2"></a>
+### Volatility: What is volatility and why is it so important to a trader?<a id="sec-2" name="sec-2"></a>
 
 -   An options trader, like a trader in the underlying instrument, is interested in the direction of the market. But if a trader in equity is wrong about the direction of the instrument, capital permitting, it is possible to wait out for the underlying to turn in your favor (Ex: Buy and Hold investment)
 -   An options trader does not have this luxury, since he has to be right about the speed in which the instrument moves in the originally estimated direction, the long options will expire worthless as we have seen earlier.
