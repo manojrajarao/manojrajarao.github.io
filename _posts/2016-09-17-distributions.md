@@ -27,7 +27,7 @@ The most popular theoretical model used for determining value of options is call
 -   During high volatility, the markets tend to not only price the options differently but also they tend to **behave** differently from other times.
 -   This is an absolutely critical concept to understand and internalize if you want to succeed as an options trader. To understand this concept better, we will touch upon some basics of Volatility and Distribution. This will help us converge to understanding how these concept correlate.
 
-![A Random Walk](../images/dist/random_walk.jpeg)
+![A Random Walk](../images/dist/random_walk.jpeg =200x200)
 -   The figure shows a pinball maze, when a ball is dropped into the maze at the top it moves downward, through a series of pegs/nails.
 -   When the ball encounters each nail there is a 50% chance the ball will move to the right, and a 50% chance it will move left. Theball then falls down to a new level where it encounters another nail. Finally, at the bottom of the maze the ball falls into one of the troughs.
 -   The path the ball follows as it moves downward through the maze of nails is known as a *randomwalk*. Once the ball enters the maze nothing can be done to aritificially alter its course, nor can one predict ahead of time the path the ball will take through the maze.
