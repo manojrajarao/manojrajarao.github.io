@@ -43,3 +43,5 @@ Since the sideways movement of the ball is restricted, the curve will have a hig
 Conversely, if the vertical movement of the ball is restricted by making the pins/pegs horizontal, then the ball would more likely move laterally than vertically dropping straight to a slot closer to the center. In this case, the overall distribution is wider therefore having lower peaks and wider ranges. This represents a *High Volatility Distribution* ![High Volatility Distribution](../images/dist/high_vol_dist.jpeg){:.foo}
 
 As it can be seen in the ![Price distribution at expiration](../images/dist/price_dist_at_exp.jpeg){:.foo} a Strike can be closer to ITM DELTAs (In The Money) or far OTM (Out The Money) depending on how the volatility. This will have an impact the pricing of the options accordingly.
+
+Note: Credit to all diagrams here go to [Options Volatility and Pricing by Cheldon Nateneberg](https://amzn.com/155738486X)
