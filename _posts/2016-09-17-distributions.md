@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Introduction to theoritical pricing models"
-excerpt: "Insight into the theoritical pricing models with distributions"
-tags: [Investing, Options, distribution, theoritical pricing, Balck-Scholes]
+title: "Introduction to theoretical pricing models"
+excerpt: "Insight into the theoretical pricing models with distributions"
+tags: [Investing, Options, distribution, theoretical pricing, Balck-Scholes]
 comments: true
 ---
 
@@ -10,7 +10,7 @@ comments: true
 
 Option pricing is obviously affected by the direction in which the underlying moves. An additional factor that an options trader must take into account in the speed with which the underlying moves in the desired direction.
 
-The most popular theoritical model used for determining value of options is called the *Black-Scholes* Method. Actually, that's not all: there are other input parameters that affect the theoritical value of options.
+The most popular theoretical model used for determining value of options is called the *Black-Scholes* Method. Actually, that's not all: there are other input parameters that affect the theoretical value of options.
 
 -   Exercise Price: This is a constant/unchangeable throughout the life of an option. It's one of the invariants that defines the option.
 -   Time to Expiration: The expiration date on the option is constant therefore the time remaining to expiration keeps ticking and this is one of most significant factors impacting the value of an option. We will cover Greeks at a later point and see how one of the greeks allow us to understand how this parameter affects the pricing of an option (THETA)
