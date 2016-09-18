@@ -12,12 +12,12 @@ Option pricing is obviously affected by the direction in which the underlying mo
 
 The most popular theoretical model used for determining value of options is called the *Black-Scholes* Method. Actually, that's not all: there are other input parameters that affect the theoretical value of options.
 
--   *Exercise Price*: This is a constant/unchangeable throughout the life of an option. It's one of the invariants that defines the option.
--   *Time to Expiration*: The expiration date on the option is constant therefore the time remaining to expiration keeps ticking and this is one of most significant factors impacting the value of an option. We will cover Greeks at a later point and see how one of the greeks allow us to understand how this parameter affects the pricing of an option (THETA)
--   *Underlying Price*: This is the parameter that, perhaps, most intuitively affects the pricing of an option. As the price of the underlying changes the option also changes, this corresponding change in the pricing of option for every unit change in underlying price is described by a Greek named DELTA. We will look later at how DELTA can be used understanding the effect of underlying price on option pricing.
--   *Interest Rates*: An option may result in cash debit or credit. In due time, we will visit the 'credit' part of things in detail.
+-   **Exercise Price**: This is a constant/unchangeable throughout the life of an option. It's one of the invariants that defines the option.
+-   **Time to Expiration**: The expiration date on the option is constant therefore the time remaining to expiration keeps ticking and this is one of most significant factors impacting the value of an option. We will cover Greeks at a later point and see how one of the greeks allow us to understand how this parameter affects the pricing of an option (THETA)
+-   **Underlying Price**: This is the parameter that, perhaps, most intuitively affects the pricing of an option. As the price of the underlying changes the option also changes, this corresponding change in the pricing of option for every unit change in underlying price is described by a Greek named DELTA. We will look later at how DELTA can be used understanding the effect of underlying price on option pricing.
+-   **Interest Rates**: An option may result in cash debit or credit. In due time, we will visit the 'credit' part of things in detail.
 -   Dividends: Underlying that provide dividends to the stock holders does impact the option pricing through the year. However, these special/specific events to a company and they are not factored into the options pricing model as a separate factor, however, they are factored into the pricing via another parameter volatility.
--   *Volatility*: This is perhaps the most significant, yet, by far the most difficult parameter to understand for traders. In trading, changes to volatility can depend on various situations and assumptions. This can impact the price of the options significantly. We will visit this in detail in the next section.
+-   **Volatility**: This is perhaps the most significant, yet, by far the most difficult parameter to understand for traders. In trading, changes to volatility can depend on various situations and assumptions. This can impact the price of the options significantly. We will visit this in detail in the next section.
 
 ### Volatility: What is volatility and why is it so important to a trader?<a id="sec-2" name="sec-2"></a>
 
