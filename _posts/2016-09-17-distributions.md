@@ -8,13 +8,9 @@ comments: true
 
 # Factors that impact Options Pricing:<a id="sec-1" name="sec-1"></a>
 
-## Option pricing is obviously affected by the direction in which the underlying moves.<a id="sec-1-1" name="sec-1-1"></a>
+Option pricing is obviously affected by the direction in which the underlying moves. An additional factor that an options trader must take into account in the speed with which the underlying moves in the desired direction.
 
-An additional factor that an options trader must take into account in the speed with which the underlying moves in the desired direction.
-
-## The most popular theoritical model used for determining value of options is called the Black-Scholes Method.<a id="sec-1-2" name="sec-1-2"></a>
-
-## Actually, that's not all: there are other input parameters that affect the theoritical value of options.<a id="sec-1-3" name="sec-1-3"></a>
+### The most popular theoritical model used for determining value of options is called the Black-Scholes Method. Actually, that's not all: there are other input parameters that affect the theoritical value of options.
 
 -   Exercise Price: This is a constant/unchangeable throughout the life of an option. It's one of the invariants that defines the option.
 -   Time to Expiration: The expiration date on the option is constant therefore the time remaining to expiration keeps ticking and this is one of most significant factors impacting the value of an option. We will cover Greeks at a later point and see how one of the greeks allow us to understand how this parameter affects the pricing of an option (THETA)
