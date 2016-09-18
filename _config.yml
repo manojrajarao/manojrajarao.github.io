@@ -10,7 +10,8 @@ url:             http://www.commonmansoptions.com
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rogue
+#highlighter: rogue
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
