@@ -39,19 +39,29 @@ In a Long Call, you buy an option and hope the underlying goes up. In a Long Put
 
 # Greeks of Interest:<a id="sec-2" name="sec-2"></a>
 
-#### DELTA: Delta measures the sensitivity of an option's theoretical value to a change in the price of the underlying asset. &#x2026; As the stock price moves, delta will change as the option becomes further in- or out-of-the-money. (Ex: Velocity)<a id="sec-2-1" name="sec-2-1"></a>
+#### DELTA:
+-   Delta measures the sensitivity of an option's theoretical value to a change in the price of the underlying asset. &#x2026; As the stock price moves, delta will change as the option becomes further in- or out-of-the-money. (Ex: Velocity)<a id="sec-2-1" name="sec-2-1"></a>
 
-#### THETA: Option traders refer to the amount of loss in option value due to the passage of time as the option's theta or time decay. The formal definition for Theta (time decay) is the rate at which an option position loses value or premium given the passage of one day, all other factors considered equal. (Ex: Decay rate)<a id="sec-2-2" name="sec-2-2"></a>
+#### THETA:
+-   Option traders refer to the amount of loss in option value due to the passage of time as the option's theta or time decay. The formal definition for Theta (time decay) is the rate at which an option position loses value or premium given the passage of one day, all other factors considered equal. (Ex: Decay rate)<a id="sec-2-2" name="sec-2-2"></a>
 
-#### GAMMA: The option's gamma is a measure of the rate of change of its delta. The gamma of an option is expressed as a percentage and reflects the change in the delta in response to a one point movement of the underlying stock price. (Ex: Acceleration)<a id="sec-2-3" name="sec-2-3"></a>
+#### GAMMA:
+-   The option's gamma is a measure of the rate of change of its delta. The gamma of an option is expressed as a percentage and reflects the change in the delta in response to a one point movement of the underlying stock price. (Ex: Acceleration)<a id="sec-2-3" name="sec-2-3"></a>
 
-#### VEGA: The option's vega is a measure of the impact of changes in the underlying volatility on the option price. Specifically, the vega of an option expresses the change in the price of the option for every 1% change in underlying implied volatility. (Ex: Excitability, Mercurial-ness)<a id="sec-2-4" name="sec-2-4"></a>
+#### VEGA:
+-   The option's vega is a measure of the impact of changes in the underlying volatility on the option price. Specifically, the vega of an option expresses the change in the price of the option for every 1% change in underlying implied volatility. (Ex: Excitability, Mercurial-ness)<a id="sec-2-4" name="sec-2-4"></a>
 
-### Entry/Exit Criteria:<a id="sec-3" name="sec-3"></a>
+### Entry Criteria:<a id="sec-3" name="sec-3"></a>
 
-##### This is a very subjective topic. Each trader has his/her own preferences based on their risk appetite. Ex: Tastytrade started off with recommending a 16-DELTA for short strikes, then they came back with a research explaining how a 30-DELTA was no riskier than 16-DELTA because of the perceived inflation in DELTAs, impacted primarily by VEGA during seasonal options pricing.<a id="sec-3-0-1" name="sec-3-0-1"></a>
+This is a very subjective topic. Each trader has his/her own preferences based on their risk appetite. Ex: Tastytrade started off with recommending a 16-DELTA for short strikes, then they came back with a research explaining how a 30-DELTA was no riskier than 16-DELTA because of the perceived inflation in DELTAs, impacted primarily by VEGA during seasonal options pricing.<a id="sec-3-0-1" name="sec-3-0-1"></a>
 
-###### Several books recommend sub-10 DELTA, I think it is especially useful for stuff like IRA accounts.<a id="sec-3-0-2" name="sec-3-0-2"></a>
+Several books recommend sub-10 DELTA, I think it is especially useful for stuff like IRA accounts.<a id="sec-3-0-2" name="sec-3-0-2"></a>
+
+
+### Exit Criteria
+
+Decide on a profit/loss prior to placing the trade. Automate it, Trigger Limit Orders. They are not ideal, but work for most cases.
+Remove yourself from the picture as much as possible. Depending on your personality and choice of trading styles, you might choose to close a position within minutes from opening a position to several weeks or even wait for expiration. Either way, select an exit criteria that you know you will be comfortable with.
 
 ### Diagonal Spreads<a id="sec-3-0-3" name="sec-3-0-3"></a>
 
