@@ -62,35 +62,3 @@ Several books recommend sub-10 DELTA, I think it is especially useful for stuff 
 
 Decide on a profit/loss prior to placing the trade. Automate it, Trigger Limit Orders. They are not ideal, but work for most cases.
 Remove yourself from the picture as much as possible. Depending on your personality and choice of trading styles, you might choose to close a position within minutes from opening a position to several weeks or even wait for expiration. Either way, select an exit criteria that you know you will be comfortable with.
-
-### Diagonal Spreads<a id="sec-3-0-3" name="sec-3-0-3"></a>
-
-### Calendar Spreads<a id="sec-3-0-4" name="sec-3-0-4"></a>
-
-### Strangles<a id="sec-3-0-5" name="sec-3-0-5"></a>
-
-### Straddles<a id="sec-3-0-6" name="sec-3-0-6"></a>
-
-Ugh..
-
-### Ratio Spreads<a id="sec-3-0-7" name="sec-3-0-7"></a>
-
-### Butterflys<a id="sec-3-0-8" name="sec-3-0-8"></a>
-
-### Condorsx<a id="sec-3-0-9" name="sec-3-0-9"></a>
-
-## How do they work compared vanilla Calls and Puts<a id="sec-3-1" name="sec-3-1"></a>
-
-## What are the pros and cons of Spreads?<a id="sec-3-2" name="sec-3-2"></a>
-
-## When should I use Spreads?<a id="sec-3-3" name="sec-3-3"></a>
-
-## When should I not use Spreads?<a id="sec-3-4" name="sec-3-4"></a>
-
-## What are the P/L ratios that we can expect from Spreads?<a id="sec-3-5" name="sec-3-5"></a>
-
-### Maximum Profit<a id="sec-3-5-1" name="sec-3-5-1"></a>
-
-### Maximum Loss: Limited Downside<a id="sec-3-5-2" name="sec-3-5-2"></a>
-
-## Ex trades<a id="sec-3-6" name="sec-3-6"></a>
