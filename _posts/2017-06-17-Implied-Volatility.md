@@ -32,12 +32,16 @@ Therefore, IV gives us a standard way to evaluate prices of options from one und
     VXV at 11.38 on Feb 20 2007
     VXV at 12.41 on Jun 16 2017
 
+
+Look at the chart below:
+
 <div class="export">
 <!-- TradingView Widget BEGIN -->
 <script type="text/javascript" src="<https://d33t3vvu2t2yu5.cloudfront.net/tv.js>"></script>
 <script type="text/javascript">
 new TradingView.widget({
-  "autosize": true,
+  "width": 900,
+  "height": 600,
   "symbol": "INDEX:VXV",
   "interval": "W",
   "timezone": "Etc/UTC",
@@ -52,6 +56,7 @@ new TradingView.widget({
 </script>
 <!-- TradingView Widget END -->
 </div>
+
 
 
 ![Implied Volatility](../images/IV-VXV.png){:.foo}
