@@ -5,14 +5,15 @@ excerpt: "Simplified Implied Volatility"
 tags: [Implied Volaitility, IV, Historical Volatility, Standard Deviation, Volatility, Investing, Strategies, Options, Calls, Puts, Vertical Spreads, Greeks, ]
 comments: true
 ---
+As mentioned in earlier posts, Volatility is one of the most under-rated factors that contribute to success or failure as an Options trader. In this post, we will cover in the simplest terms possible what volaitility means and where the market's volatility, at present, is with respect to earlier points in time.
 
-# What is Implied Volatility (IV)?<a id="sec-1" name="sec-1"></a>
+### What is Implied Volatility (IV)?<a id="sec-1" name="sec-1"></a>
 
 In simple words, Implied Volatity is derived from the current price of the options on an underlying. It is represented in terms of percentage, this percentage indicates the annual expected range within which the stock can move. For example, let's assume the 
 
     IV of AAPL which is, say, trading at 150 is 20%.
 
-# What does 1 Standard Deviation mean?<a id="sec-2" name="sec-2"></a>
+### What does 1 Standard Deviation mean?<a id="sec-2" name="sec-2"></a>
 
 To understand this we will revisit some of the [distributions article](http://www.commonmansoptions.com/distributions/). In a normal distribution curve, +/-1 standard deviation is a measurement that encompasses approximately 68.2% (or about 2/3) of the outcomes. +/-2 standard deviations represent approximately 95.4% (or about 19/20) of all occurences. +/-3 standard deviations represent about 99.7% (or about 369/370) of all occurences. In the earlier example of AAPL, 
 
@@ -21,7 +22,7 @@ To understand this we will revisit some of the [distributions article](http://ww
     Therefore, based on current pricing AAPL could move anywhere
     between 120-180 in the coming year with a probability of 68.2%.
 
-# Why should I care about IV?<a id="sec-3" name="sec-3"></a>
+### Why should I care about IV?<a id="sec-3" name="sec-3"></a>
 
 According to famous trader Tom Sosnoff (paraphrased):
 
@@ -48,7 +49,7 @@ Look at the chart below:
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
 <script type="text/javascript">
 new TradingView.widget({
-  "width": 980,
+  "width": 800,
   "height": 610,
   "symbol": "INDEX:VXV",
   "interval": "W",
@@ -66,7 +67,3 @@ new TradingView.widget({
 </script>
 <!-- TradingView Widget END -->
 </div>
-
-
-
-![Implied Volatility](../images/IV-VXV.png){:.foo}
