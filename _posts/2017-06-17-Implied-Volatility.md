@@ -43,22 +43,24 @@ Therefore, IV gives us a standard way to evaluate prices of options from one und
 
 Look at the chart below:
 
-<div>
+<div >
 <!-- TradingView Widget BEGIN -->
-<script type="text/javascript" src="<https://d33t3vvu2t2yu5.cloudfront.net/tv.js>"></script>
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
 <script type="text/javascript">
 new TradingView.widget({
-  "width": 900,
-  "height": 600,
+  "width": 980,
+  "height": 610,
   "symbol": "INDEX:VXV",
   "interval": "W",
   "timezone": "Etc/UTC",
   "theme": "White",
   "style": "1",
   "locale": "en",
-  "toolbar<sub>bg</sub>": "#f1f3f6",
-  "enable<sub>publishing</sub>": false,
-  "allow<sub>symbol</sub><sub>change</sub>": true,
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": true,
+  "withdateranges": true,
+  "hide_side_toolbar": false,
+  "allow_symbol_change": true,
   "hideideas": true
 });
 </script>
