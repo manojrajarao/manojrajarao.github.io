@@ -153,7 +153,14 @@
   
 </div>
 
-  </div>
+</div>
+
+ <div class="blog-index">
+      {% assign post = site.posts.first %}
+      {% assign content = post.content %}
+      {% include post_detail.html %}
+</div>
+    
   <div id="index">
     <h3><a href="http://www.commonmansoptions.com/posts/">Popular Posts</a></h3>
         
@@ -165,11 +172,6 @@
       
     </article>
 
-    <div class="blog-index">
-      {% assign post = site.posts.first %}
-      {% assign content = post.content %}
-      {% include post_detail.html %}
-    </div>
     
   </div><!-- /#index -->
 </div><!-- /#main -->
