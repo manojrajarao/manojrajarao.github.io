@@ -1,21 +1,10 @@
 ---
 layout: post
 title: "Options Margins Simplified"
-excerpt: "Options Margins Simplified"
+excerpt: "Overview of How Options Margins are calculated"
 tags: [Margins, Margin Calculation, Spreads, Iron Condors, Investing, Strategies, Options, Calls, Puts, Vertical Spreads, Greeks, ]
 comments: true
 ---
-
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">1. What are Options Margins?</a></li>
-<li><a href="#sec-2">2. Who provides the guidance for the amount of margins?</a></li>
-<li><a href="#sec-3">3. How are margins determined for options?</a></li>
-</ul>
-</div>
-</div>
 
 # What are Options Margins?<a id="sec-1" name="sec-1"></a>
 
