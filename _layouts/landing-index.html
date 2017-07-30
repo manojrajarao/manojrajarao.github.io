@@ -164,12 +164,11 @@
 
 {% include google_analytics.html %}
 
-{% include _disqus_comments.html %}
-
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
 
+<!--
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -182,13 +181,14 @@
   {% if page.image.credit %}
     <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
-  </div><!-- /.image-wrap -->
+  </div>
 {% endif %}
+  -->
 
 <div id="main" role="main">
-  <div class="article-author-side">
+  <!--div class="article-author-side">
     {% include _author-bio.html %}
-  </div>
+  </div-->
   <div id="index">
     <h1>{{ page.title }}</h1>
     {% for post in site.posts %}  
@@ -241,6 +241,6 @@
 <a href="//www.bluehost.com/track/commonmansoptions/" target="_blank">
 <img border="0" src="//bluehost-cdn.com/media/partner/images/commonmansoptions/120x120/bh-120x120-03-dy.png">
 </a>
-
+{% include _disqus_comments.html %}
 </body>
 </html>
