@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simplified Implied Volatility"
-excerpt: "Simplified Implied Volatility"
+excerpt: "Why you should care about Volatility"
 tags: [Implied Volaitility, IV, Historical Volatility, Standard Deviation, Volatility, Investing, Strategies, Options, Calls, Puts, Vertical Spreads, Greeks, ]
 comments: true
 ---
