@@ -4,6 +4,7 @@ title: "Options Margins Simplified"
 excerpt: "Overview of How Options Margins are calculated"
 tags: [Margins, Margin Calculation, Spreads, Iron Condors, Investing, Strategies, Options, Calls, Puts, Vertical Spreads, Greeks, ]
 comments: true
+toc: true
 ---
 
 # What are Options Margins?<a id="sec-1" name="sec-1"></a>
