@@ -1,7 +1,7 @@
 # A Common Man's Guide to Options Trading
 
 **[A Common Man's Guide to Options
-  Trading](http://manojrajarao.github.io)** is a JSRP. This is
+  Trading](http://manojrajarao.github.io)** is a jsrp. This is
   a blog of my experiences and lessons that I've learned through
   trading options over the years.
 
